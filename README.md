@@ -1,4 +1,4 @@
 # SSIS
-This ia SSIS end to end project
+This is a SSIS end to end project
 
 Go through it :)
